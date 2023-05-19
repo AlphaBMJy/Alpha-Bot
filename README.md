@@ -24,7 +24,6 @@ version = ... // e.g. v1.0 but you can put anything there (/info embed at the bo
 if you installed `nodemon` you can use 
 ```
 nodemon
-
 ```
 to start it. If not just use 
 ```
