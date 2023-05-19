@@ -8,6 +8,7 @@ Discord Bot made by [AlphaBMJy#7640](https://discord.gg/7JDDk22cDc)
 npm i -y
 npm i discord.js
 npm i nodemon
+npm i dotenv
 ```
 
 ## Setup
@@ -17,7 +18,7 @@ create a file called `.env` and paste this code:
 TOKEN = ... // your discord bot token 
 GUILD_ID = ... // Server Id 
 CLIENT_ID = ... // Id of your discord Bot
-version = ... // I reccomend using v1.0 but you can put anything there (/info embed at the bottom)
+version = ... // e.g. v1.0 but you can put anything there (/info embed at the bottom)
 ```
 ## Getting it online
 if you installed `nodemon` you can use 
