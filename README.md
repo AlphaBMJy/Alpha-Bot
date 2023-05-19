@@ -18,7 +18,8 @@ create a file called `.env` and paste this code:
 TOKEN = ... // your discord bot token 
 GUILD_ID = ... // Server Id 
 CLIENT_ID = ... // Id of your discord Bot
-version = ... // e.g. v1.0 but you can put anything there (/info embed at the bottom)
+VERSION = ... // e.g. v1.0 but you can put anything there (/info embed at the bottom)
+NODE_JS_VERSION = v18.16.0 // your node js version (node -v)
 ```
 ## Getting it online
 if you installed `nodemon` you can use 
